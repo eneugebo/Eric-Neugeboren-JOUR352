@@ -1,0 +1,32 @@
+body{
+    background-color: #93BEDF;
+    text-align: center;
+    }
+
+button{
+    background-color: #BF4342;
+    font-family: 'Nunito', sans-serif;
+    width: 200px;
+    text-transform: uppercase;
+    color: #1D1E18;
+    padding: 10px;
+    margin: 50px;
+    border: none;
+    border-radius: 4px;
+    }
+
+button:hover{
+    background-color: #E0CA3C;
+    }
+
+h1{
+    font-size:30px;
+    color: #1D1E18;
+    font-family: 'Roboto', sans-serif;
+    }
+
+h2{
+    font-size:20px;
+    color: #1D1E18;
+    font-family: 'Nunito', sans-serif;
+    }
