@@ -1,0 +1,31 @@
+/*
+MY COLOR PALETTE
+Color 1 - #1D1E18
+Color 2 - #93BEDF
+Color 3 - #026C7C
+Color 4 - #BF4342
+Color 5 - #E0CA3C
+*/
+
+body {
+    background-color: #93BEDF;
+    text-align:center;
+}
+
+div {
+    width: 300px;
+    height: 300px;
+    text-align:center;
+    font-size:44px;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: #1D1E18;
+    border: 3px solid white;
+    margin: auto;
+    padding: 10px;
+}
+
+#highlight {
+    color: #BF4342;
+    font-weight: bold;
+}
