@@ -1,0 +1,98 @@
+.nav{
+    background-color: #1D1E18;
+    color: #FFFFFF;
+    font-family: 'Helvetica Neue';
+    font-size: 30px;
+width: 100%}
+
+.nav a:hover {
+color: #FFFFFF}
+
+#topper{
+    background-color: #F3F9D2;
+    text-align: left;
+}
+
+#name{
+    font-size: 90px;
+    font: 'Avenir;
+    margin: 10px
+}
+
+#hr1{color: #F46036;
+    height: 4px;
+    width: 75% }
+
+#hr2{color: #F46036;
+    height: 4px;
+    width: 45%;
+    }
+
+#title{
+    font-size: 80px;
+    font: 'Avenir';
+    margin: 40px}
+
+#button{
+    background-color: #F3F9D2
+}
+
+#button2 {
+    background-color:#93BEDF;
+    border:0px;
+    border-radius: 20px;
+    padding:10px 30px 10px 30px;
+    margin-left: 110px;
+    margin-bottom: 10px
+}
+
+
+#button a {
+    color:black;
+    text-decoration: none;
+    font-family: 'Georgia';
+    font-weight: bold;
+    font-style: italic;
+    font-size: 40px
+}
+
+
+#headshot {
+    width:95%;
+    padding:0px;
+    margin:20px 0px 20px 40px;
+    border-radius: 500px;
+    background-color: #F3F9D2
+}
+
+h1 {
+    font-family: 'PT Sans';
+    font-size: 50px
+}
+
+h3 {
+    font-family: 'Arial';
+    font-size: 25px
+}
+
+
+#education {
+    background-color: #93BEDF}
+
+#experience{
+    background-color: #93BEDF
+}
+
+#skills{
+    background-color: #93BEDF
+}
+
+#hr3 {color: #026C7C;
+    height: 4px}
+
+
+#footer {
+    background-color: #1D1E18;
+    color: #FFFFFF;
+    font-family: 'Helvetica Neue';
+    font-size: 30px}
