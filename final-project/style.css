@@ -59,9 +59,18 @@
         font-family: 'PT Serif Caption', serif;
         color: #E02D2D;
         font-size: 20px;
-        margin-bottom: 5px;
-        border: 1px solid #4BA3C3;
-        padding: 10px}
+        margin-bottom: 5px}
+    
+    hr{
+        color: #4BA3C3;
+        height: 5px !important}
+    
+    .attribution{
+        float:none;
+        font-family: 'PT Serif Caption', serif;
+        color: #E02D2D;
+        font-size: 15px;
+        font-style: italic}
     
     .body{width: 90%}
     
@@ -75,7 +84,6 @@
     #byline{font-size: 20px}
     .pull_quote{font-size: 20px}
     .body{width: 70%}
-     
 }
 
 @media (min-width:776px) {
@@ -84,6 +92,7 @@
     #nav{font-size: 22.5px}
     #byline{font-size: 22.5px}
     .pull_quote{font-size: 22.5px}
+    .attribution{font-size: 17.5px}
      
 }
 
@@ -93,5 +102,6 @@
     #nav{font-size: 30px}
     #byline{font-size: 30px}
     .pull_quote{font-size: 30px}
+    .attribution{font-size: 20px}
     
 }
