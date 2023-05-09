@@ -63,7 +63,7 @@
         border: 1px solid #4BA3C3;
         padding: 10px}
     
-    .body{width: 80%}
+    .body{width: 90%}
     
 }
 
@@ -74,6 +74,7 @@
     #nav{font-size: 20px}
     #byline{font-size: 20px}
     .pull_quote{font-size: 20px}
+    .body{width: 70%}
      
 }
 
